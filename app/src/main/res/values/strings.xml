@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">People</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="ethnicity">
+        <item name="0">All</item>
+        <item name="1">Asian</item>
+        <item name="2">Indian</item>
+        <item name="3">African Americans</item>
+        <item name="4">Asian Americans</item>
+        <item name="5">European</item>
+        <item name="6">British</item>
+        <item name="7">Jewish</item>
+        <item name="8">Latino</item>
+        <item name="9">Native American</item>
+        <item name="10">Arabic</item>
+
+    </string-array>
+    <string name="title_activity_read">ReadActivity</string>
+</resources>
